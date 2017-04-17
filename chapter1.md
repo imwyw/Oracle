@@ -1,3 +1,11 @@
-# First Chapter
+* 减少标量子查询，用left join
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+```sql
+select a.username,(select count(*) from all_objects b where b.owner=a.username) cnt
+ from all_users a;
+```
+
+
+
+
+
