@@ -5,241 +5,83 @@ select a.username,(select count(*) from all_objects b where b.owner=a.username) 
  from all_users a;
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# ceshi
 
 # ceshi
 
+# ceshi
 
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
+
+# ceshi
 
 
 
