@@ -16,3 +16,11 @@ select a.username,count(*)
 
 
 
+* exist和in
+
+
+
+
+
+
+
