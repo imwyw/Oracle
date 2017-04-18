@@ -1,3 +1,6 @@
-# My Awesome Book
+# Oracle相关知识
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+总结了一些效率优化建议，学习记录等
+
+
+

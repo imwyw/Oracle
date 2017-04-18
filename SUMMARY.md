@@ -1,5 +1,5 @@
 # Summary
 
 * [简介](README.md)
-* [优化建议](chapter1.md)
+* [sql语句优化](chapter1.md)
 
